@@ -31,5 +31,5 @@ Users will enter the following data points: <br />
 
 
 ## Breakdown of Work
-Each member of the group is responsible for writing one of the three functions and assist the other group members in editing the others. 
-Debugging, optimizing code, and editing code was done collectively and collaboratively among all group members.
+Each member of the group is responsible for writing one of the three functions and assisting the other group members in editing the others. 
+Debugging, optimizing, and editing code was done collectively and collaboratively among all group members.
